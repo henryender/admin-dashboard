@@ -23,7 +23,7 @@ export default function Transfers() {
       image: avatarImage,
       name: "From Jakob",
       time: "Yesterday, 14:36",
-      amount: "+ ₦80",
+      amount: "+₦150",
     },
   ];
   return (
